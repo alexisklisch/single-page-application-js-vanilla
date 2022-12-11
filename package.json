@@ -1,0 +1,9 @@
+{
+  "name": "single-page-application-js-vanilla",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Aprendo a crear sitios SPA con JS Vanilla.",
+  "main": "src/index.js",
+  "author": "Alexis Klisch <work@alexisklisch.com>",
+  "license": "MIT"
+}
